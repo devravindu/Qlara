@@ -64,3 +64,9 @@ button:hover {
     font-style: italic;
     color: #555;
 }
+
+#loadingIndicator {
+    text-align: center;
+    margin-top: 10px;
+    color: gray;
+}
